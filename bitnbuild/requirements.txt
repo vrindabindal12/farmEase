@@ -1,0 +1,13 @@
+django==4.2.10
+social-auth-app-django
+ultralytics
+langchain
+google-generativeai
+twilio
+reportlab
+PyPDF2
+requests
+beautifulsoup4
+python-dotenv
+opencv-python
+faiss-cpu
